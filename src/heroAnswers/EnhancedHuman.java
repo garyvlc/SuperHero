@@ -4,7 +4,6 @@ import heroQuestions.SuperPower;
 
 public class EnhancedHuman extends SuperHero {
 
-	private SuperHero superHero;
 	private SuperPower[] acquiredPowers;
 	private int totalPower = 0;
 	private String normalIdentity;
